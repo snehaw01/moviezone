@@ -1,0 +1,309 @@
+Country,Certification,Meaning,Order
+AU,E,Exempt from classification. Films that are exempt from classification must not contain contentious material (i.e. material that would ordinarily be rated M or higher).,1
+AU,G,General. The content is very mild in impact.,2
+AU,PG,Parental guidance recommended. There are no age restrictions. The content is mild in impact.,3
+AU,M,Recommended for mature audiences. There are no age restrictions. The content is moderate in impact.,4
+AU,MA 15+,Mature Accompanied. Unsuitable for children younger than 15. Children younger than 15 years must be accompanied by a parent or guardian. The content is strong in impact.,5
+AU,R 18+,Restricted to 18 years and over. Adults only. The content is high in impact.,6
+AU,X 18+,"Restricted to 18 years and over. Films with this rating have pornographic content. Films classified as X18+ are banned from being sold or rented in all Australian states and are only legally available in the Australian Capital Territory and the Northern Territory. However, importing X18+ material from the two territories to any of the Australian states is legal.The content is sexually explicit in impact.",7
+AU,RC,Refused Classification. Banned from sale or hire in Australia; also generally applies to importation (if inspected by and suspicious to Customs). Private Internet viewing is unenforced and attempts to legally censor such online material has resulted in controversy. Films are rated RC if their content exceeds the guidelines. The content is very high in impact.,8
+BG,D,Prohibited for persons under 16.,4
+BG,X,Prohibited for persons under 18.,5
+BG,B,Without age restrictions.,2
+BG,C,Not recommended for children under 12.,3
+BG,A,Recommended for children.,1
+BR,14,"Not recommended for minors under fourteen. More violent material, stronger sex references and/or nudity.",4
+BR,16,"Not recommended for minors under sixteen. Scenes featuring production, trafficking and/or use of illegal drugs, hyper-realistic sex, sexual violence, abortion, torture, mutilation, suicide, trivialization of violence and death penalty.",5
+BR,L,General Audiences. Do not expose children to potentially harmful content.,1
+BR,12,"Not recommended for minors under twelve. Scenes can include physical aggression, use of legal drugs and sexual innuendo.",3
+BR,10,"Not recommended for minors under ten. Violent content or inappropriate language to children, even if of a less intensity.",2
+BR,18,"Not recommended for minors under eighteen. Scenes featuring explicit sex, incest, pedophilia, praising of the use of illegal drugs and violence of a strong imagery impact.",6
+CA,G,All ages.,2
+CA,PG,Parental guidance advised. There is no age restriction but some material may not be suitable for all children.,3
+CA,14A,Persons under 14 years of age must be accompanied by an adult.,4
+CA,18A,"Persons under 18 years of age must be accompanied by an adult. In the Maritimes & Manitoba, children under the age of 14 are prohibited from viewing the film.",5
+CA,R,Restricted to 18 years and over. No rental or purchase by those under 18. Content not suitable for minors. Video contains frequent use of: sexual activity; brutal/graphic violence; intense horror; and/or other disturbing content.,6
+CA,A,Admittance restricted to people 18 years of age or older. Sole purpose of the film is the portrayal of sexually explicit activity and/or explicit violence.,7
+CA,E,"Exempt. Contains material not subject to classification such as documentaries, nature, travel, music, arts and culture, sports and educational and instructional information.",1
+CA-QC,NR,No rating information.,0
+CA-QC,G,"General Rating – May be viewed, rented or purchased by persons of all ages. If a film carrying a ""G"" rating might offend the sensibilities of a child under 8 years of age, ""Not suitable for young children"" is appended to the classification.",1
+CA-QC,13+,"13 years and over – May be viewed, rented or purchased only by children 13 years of age or over. Children under 13 may be admitted only if accompanied by an adult.",2
+CA-QC,16+,"16 years and over – May be viewed, rented or purchased only by children 16 years of age or over.",3
+CA-QC,18+,"18 years and over – May be viewed, rented or purchased only by adults 18 years of age or over. If a film contains real and explicit sexual activity ""Explicit sexuality"" is appended to the classification, and in the retail video industry storeowners are required to place the film in a room reserved for adults.",4
+DE,12,"Children 12 or older admitted, children between 6 and 11 only when accompanied by parent or a legal guardian.",3
+DE,18,"No youth admitted, only adults.",5
+DE,0,No age restriction.,1
+DE,6,No children younger than 6 years admitted.,2
+DE,16,"Children 16 or older admitted, nobody under this age admitted.",4
+DK,NR,No rating information.,0
+DK,A,Suitable for a general audience.,1
+DK,7,Not recommended for children under 7.,2
+DK,11,For ages 11 and up.,3
+DK,15,For ages 15 and up.,4
+DK,F,Exempt from classification.,5
+ES,A,General admission.,1
+ES,Ai,General admission.,2
+ES,7,Not recommended for audiences under 7.,3
+ES,7i,Not recommended for audiences under 7.,4
+ES,12,Not recommended for audiences under 12.,5
+ES,16,Not recommended for audiences under 16.,5
+ES,18,Not recommended for audiences under 18.,7
+ES,X,Prohibited for audiences under 18.,8
+FI,K-16,Over 16 years.,4
+FI,K-12,Over 12 years.,3
+FI,K-7,Over 7 years.,2
+FI,S,For all ages.,1
+FI,K-18,Adults only.,5
+FI,KK,Banned from commercial distribution.,6
+FR,TP,Valid for all audiences.,1
+FR,12,Unsuitable for children younger than 12 or forbidden in cinemas for under 12.,2
+FR,16,Unsuitable for children younger than 16 or forbidden in cinemas for under 16.,3
+FR,18,Unsuitable for children younger than 18 or forbidden in cinemas for under 18.,4
+GB,15,"Only those over 15 years are admitted. Nobody younger than 15 can rent or buy a 15-rated VHS, DVD, Blu-ray Disc, UMD or game, or watch a film in the cinema with this rating. Films under this category can contain adult themes, hard drugs, frequent strong language and limited use of very strong language, strong violence and strong sex references, and nudity without graphic detail. Sexual activity may be portrayed but without any strong detail. Sexual violence may be shown if discreet and justified by context.",5
+GB,R18,"Can only be shown at licensed adult cinemas or sold at licensed sex shops, and only to adults, those aged 18 or over. Films under this category are always hard-core pornography, defined as material intended for sexual stimulation and containing clear images of real sexual activity, strong fetish material, explicit animated images, or sight of certain acts such as triple simultaneous penetration and snowballing. There remains a range of material that is often cut from the R18 rating: strong images of injury in BDSM or spanking works, urolagnia, scenes suggesting incest even if staged, references to underage sex or childhood sexual development and aggressive behaviour such as hair-pulling or spitting on a performer are not permitted. More cuts are demanded in this category than any other category.",7
+GB,PG,"All ages admitted, but certain scenes may be unsuitable for young children. May contain mild language and sex/drugs references. May contain moderate violence if justified by context (e.g. fantasy).",2
+GB,12A,"Films under this category are considered to be unsuitable for very young people. Those aged under 12 years are only admitted if accompanied by an adult, aged at least 18 years, at all times during the motion picture. However, it is generally not recommended that children under 12 years should watch the film. Films under this category can contain mature themes, discrimination, soft drugs, moderate swear words, infrequent strong language and moderate violence, sex references and nudity. Sexual activity may be briefly and discreetly portrayed. Sexual violence may be implied or briefly indicated.",3
+GB,U,"All ages admitted, there is nothing unsuitable for children.",1
+GB,18,"Only adults are admitted. Nobody younger than 18 can rent or buy an 18-rated VHS, DVD, Blu-ray Disc, UMD or game, or watch a film in the cinema with this rating. Films under this category do not have limitation on the bad language that is used. Hard drugs are generally allowed, and explicit sex references along with detailed sexual activity are also allowed. Scenes of strong real sex may be permitted if justified by the context. Very strong, gory, and/or sadistic violence is usually permitted. Strong sexual violence is permitted unless it is eroticised or excessively graphic.",6
+GB,12,"Home media only since 2002. 12A-rated films are usually given a 12 certificate for the VHS/DVD version unless extra material has been added that requires a higher rating. Nobody younger than 12 can rent or buy a 12-rated VHS, DVD, Blu-ray Disc, UMD or game. The content guidelines are identical to those used for the 12A certificate.",4
+HU,6,Not recommended below age of 6.,2
+HU,16,Not recommended below age of 16.,4
+HU,KN,Without age restriction.,1
+HU,18,Not recommended below age of 18.,5
+HU,NR,No rating information.,0
+HU,12,Not recommended below age of 12.,3
+HU,X,"Restricted below 18, for adults only.",6
+IN,U,"Unrestricted Public Exhibition throughout India, suitable for all age groups. Films under this category should not upset children over 4. Such films may contain educational, social or family-oriented themes. Films under this category may also contain fantasy violence and/or mild bad language.",1
+IN,U/A 7+,Viewable for 7 and above years old.,2
+IN,UA,"All ages admitted, but it is advised that children below 12 be accompanied by a parent as the theme or content may be considered intense or inappropriate for young children. Films under this category may contain mature themes, sexual references, mild sex scenes, violence with brief gory images and/or infrequent use of crude language.",3
+IN,U/A 13+,Viewable for 13 and above years old.,4
+IN,U/A 16+,Viewable for 16 and above years old.,5
+IN,A,"Restricted to adult audiences (18 years or over). Nobody below the age of 18 may buy/rent an A-rated DVD, VHS, UMD or watch a film in the cinema with this rating. Films under this category may contain adult/disturbing themes, frequent crude language, brutal violence with blood and gore, strong sex scenes and/or scenes of drug abuse which is considered unsuitable for minors.",6
+IN,S,Restricted to any special class of persons.,7
+IT,NR,No rating information.,0
+IT,T,All ages admitted.,1
+IT,6+,Not suitable for children under 6.,2
+IT,14+,Released to ages 14 and older; children who are at least 12 may be admitted with adult accompaniment.,3
+IT,18+,Released to ages 18 and older; children who are at least 16 may be admitted with adult accompaniment.,4
+LT,NR,No rating information.,0
+LT,V,Movies for the audience of all ages.,1
+LT,N-7,"Movies for viewers from 7 years old. Younger than 7 years of age, viewers of this index have been featured only together with accompanying adult persons.",2
+LT,N-13,Movies for viewers from 13 years of age. The viewers from 7 to 13 years of age are allowed to enter this index only together with accompanying adult persons.,3
+LT,N-16,Movies for viewers from 16 years of age.,4
+LT,N-18,Movies for viewers from 18 years of age.,5
+MY,NR,No rating information.,0
+MY,U,"(Umum: ""General Audiences"") - For general audiences. (Used by the majority of films screened in Malaysia until 2008 but it continues only for television, notably for RTM.)",1
+MY,P13,"(Penjaga 13 : ""Parental Guidance 13"") - Children under 13 not admitted unless accompanied by an adult. (Introduced in 2006, this became the official Malaysian motion picture rating system in 2008. The ""PG-13"" rating was revised to ""P13"" from April 2012 onwards to emphasize the use of Malay language instead of English.) Passionate kissing scenes are not allowed under a P13 rating.",2
+MY,18SG,"(Seram, Ganas: ""Graphic Violence and Horror/Terror"") - Film may contain strong violence, gore or horror/terror people may find objectionable.",3
+MY,18SX,"(Seks: ""Sexual Content"") - Film may contain sex scenes, nudity or sexual dialogue/references people may find objectionable (despite scenes of sex and nudity being strictly censored off by the LPF.)",4
+MY,18PA,"(Politik, Agama: ""Strong Religious or Political Elements"") - Film may contain elements which include religious, social or political aspects people may find objectionable. Rarely used.",5
+MY,18PL,"(Pelbagai: ""Various"") - Film may contain strong violence, gore, horror/terror, sex scenes, nudity, sexual dialogues/references, religious, social or political aspects people may find objectionable. The majority of the 18+ movies use this rating. For example, a film with sex scenes and strong violence will be classified as 18PL, despite scenes of sex and nudity being strictly censored off by the LPF.",6
+NL,AL,All ages.,1
+NL,6,Potentially harmful to children under 6 years.,2
+NL,9,Potentially harmful to children under 9 years.,3
+NL,12,Potentially harmful to children under 12 years; broadcasting is not allowed before 8:00 pm.,4
+NL,16,Potentially harmful to children under 16 years; broadcasting is not allowed before 10:00 pm.,6
+NL,14,Potentially harmful to children under 14 years; broadcasting is not allowed before 8:00 pm.,5
+NL,18,Potentially harmful to (and not allowed for) children under 18 years; broadcasting is not allowed before midnight.,7
+NO,6,6 years (no restriction for children accompanied by an adult).,2
+NO,9,9 years (children down to 6 years accompanied by an adult).,3
+NO,NR,No rating information.,0
+NO,18, 18 years (absolute lower limit).,6
+NO,15,15 years (young down to 12 years accompanied by an adult).,5
+NO,12,12 years (children down to 9 years accompanied by an adult).,4
+NO,A,Suitable for all.,1
+NZ,G,Suitable for general audiences.,1
+NZ,PG,Parental guidance recommended for younger viewers.,2
+NZ,M,Suitable for (but not restricted to) mature audiences 16 years and up.,3
+NZ,R13,Restricted to persons 13 years of age and over.,4
+NZ,R15,Restricted to persons 15 years of age and over.,6
+NZ,R16,Restricted to persons 16 years of age and over.,7
+NZ,R18,Restricted to persons 18 years of age and over.,9
+NZ,R,"Restricted to a particular class of persons, or for particular purposes, or both.",11
+NZ,RP13,,5
+NZ,RP16,,8
+NZ,RP18,,10
+PH,NR,No rating information.,0
+PH,PG,Viewers below 13 years old must be accompanied by a parent or supervising adult.,2
+PH,X,“X-rated” films are not suitable for public exhibition.,6
+PH,R-18,Only viewers who are 18 years old and above can be admitted.,5
+PH,R-16,Only viewers who are 16 years old and above can be admitted.,4
+PH,G,Viewers of all ages are admitted.,1
+PH,R-13,Only viewers who are 13 years old and above can be admitted.,3
+PT,Públicos,For all the public (especially designed for children under 3 years of age).,1
+PT,M/3,Passed for viewers aged 3 and older.,2
+PT,M/6,Passed for viewers aged 6 and older.,3
+PT,M/12,Passed for viewers aged 12 and older.,4
+PT,M/14,Passed for viewers aged 14 and older.,5
+PT,M/16,Passed for viewers aged 16 and older.,6
+PT,M/18,Passed for viewers aged 18 and older.,7
+PT,P,Special rating supplementary to the M/18 age rating denoting pornography.,8
+RU,6+,(For children above 6) – Unsuitable for children under 6.,2
+RU,0+,All ages are admitted.,1
+RU,16+,(For children above 16) – Unsuitable for children under 16.,4
+RU,18+,(Prohibited for children) – Prohibited for children under 18.,5
+RU,12+,(For children above 12) – Unsuitable for children under 12.,3
+RU,NR,No rating information.,0
+SE,11,"Children over the age of 7, who are accompanied by an adult, are admitted to films that have been passed for children from the age of 11.",3
+SE,NR,No rating information.,0
+SE,15,"Children over the age of 7, who are accompanied by an adult, are admitted to films that have been passed for children from the age of 11. Updated on March 1, 2017.",4
+SE,Btl,All ages.,1
+SE,7,"Children under the age of 7, who are accompanied by an adult (a person aged 18 or over), are admitted to films that have been passed for children from the age of 7.",2
+US,R,"Under 17 requires accompanying parent or adult guardian 21 or older. The parent/guardian is required to stay with the child under 17 through the entire movie, even if the parent gives the child/teenager permission to see the film alone. These films may contain strong profanity, graphic sexuality, nudity, strong violence, horror, gore, and strong drug use. A movie rated R for profanity often has more severe or frequent language than the PG-13 rating would permit. An R-rated movie may have more blood, gore, drug use, nudity, or graphic sexuality than a PG-13 movie would admit.",4
+US,PG,"Some material may not be suitable for children under 10. These films may contain some mild language, crude/suggestive humor, scary moments and/or violence. No drug content is present. There are a few exceptions to this rule. A few racial insults may also be heard.",2
+US,NC-17,"These films contain excessive graphic violence, intense or explicit sex, depraved, abhorrent behavior, explicit drug abuse, strong language, explicit nudity, or any other elements which, at present, most parents would consider too strong and therefore off-limits for viewing by their children and teens. NC-17 does not necessarily mean obscene or pornographic in the oft-accepted or legal meaning of those words.",5
+US,G,All ages admitted. There is no content that would be objectionable to most parents. This is one of only two ratings dating back to 1968 that still exists today.,1
+US,NR,No rating information.,0
+US,PG-13,"Some material may be inappropriate for children under 13. Films given this rating may contain sexual content, brief or partial nudity, some strong language and innuendo, humor, mature themes, political themes, terror and/or intense action violence. However, bloodshed is rarely present. This is the minimum rating at which drug content is present.",3
+KR,ALL,Film suitable for all ages.,0
+KR,12,Film intended for audiences 12 and over. Underage audiences accompanied by a parent or guardian are allowed.,1
+KR,15,Film intended for audiences 15 and over. Underage audiences accompanied by a parent or guardian are allowed.,2
+KR,19,No one under 19 is allowed to watch this film.,3
+KR,Restricted Screening,"Film needs a certain restriction in screening or advertisement as it is considered a highly bad influence to universal human dignity, social value, good customs or national emotion due to excessive expression of nudity, violence, social behavior, etc. (technically not an age restriction but films with this rating may only be screened at ",4
+SK,U,General audience.,1
+SK,7,Not recommended for children younger than 7 years.,2
+SK,12,Not recommended for people younger than 12 years.,3
+SK,15,Not recommended for people younger than 15 years.,4
+SK,18,Prohibited for minors under 18 years of age.,5
+TH,P,Educational.,1
+TH,G,General audience,2
+TH,13,Suitable for viewers aged 13 years and over.,3
+TH,15,Suitable for viewers aged 15 years and over,4
+TH,18,Suitable for viewers aged 18 years and over.,5
+TH,20,Content is unsuitable for viewers aged under 20,6
+TH,Banned,Films that are not allowed to screen publicly in Thailand,7
+MX,AA,Informative-only rating: Understandable for children under 7 years.,1
+MX,A,Information-only rating: For all age groups.,2
+MX,B,Information-only rating: For adolescents 12 years and older.,3
+MX,B-15,Information-only rating: Not recommended for children under 15.,4
+MX,C,Restrictive rating: For adults 18 and older.,5
+MX,D,Restrictive rating: Adult movies (legally prohibited to those under 18 years of age).,6
+ID,SU,All ages.,1
+ID,13+,Suitable for ages 13 and above.,2
+ID,17+,Suitable for ages 17 and above.,3
+ID,21+,Suitable for ages 21 and above.,4
+TR,Genel İzleyici Kitlesi,General audience.,1
+TR,6A,Viewers under the age of 6 may watch with accompanying family members.,2
+TR,6+,Suitable for viewers aged 6 and over.,3
+TR,10A,Viewers under the age of 10 may watch with accompanying family members.,4
+TR,10+,Suitable for viewers aged 10 and over.,5
+TR,13A,Viewers under the age of 13 may watch with accompanying family members.,6
+TR,13+,Suitable for viewers aged 13 and over.,7
+TR,16+,Suitable for viewers aged 16 and over.,8
+TR,18+,Suitable for viewers aged 18 and over.,9
+AR,ATP,For all public.,1
+AR,+13,Suitable for 13-year-olds and over. Children under the age of 13 are admitted if accompanied by an adult.,2
+AR,+16,Suitable for 16-year-olds and over.,3
+AR,+18,Suitable for 18-year-olds and over.,4
+AR,C,Suitable for 18-year-olds and over. Restricted to specially licensed venues.,5
+GR,K,No restrictions.,1
+GR,K12,The film may contain mild violence and adult themes. Suitable for people aged 13 and above.,2
+GR,K15,"The film may contain violence, drug abuse, and softcore pornographic scenes. An ID card certifying the age is required in all Greek cinemas and video rental shops in order to get a cinema ticket or rent a video of a ",3
+GR,K18,Not permitted to people under the age of 18.,4
+TW,0+,Viewing is permitted for audiences of all ages.,1
+TW,6+,"Viewing is not permitted for children under 6; children between 6 and 11 shall be accompanied and given guidance by parents, teachers, seniors, or adult relatives or friends.",2
+TW,12+,Viewing is not permitted for children under 12.,3
+TW,15+,Viewing is not permitted for those under 15.,4
+TW,18+,Viewing is not permitted for those under 18.,5
+ZA,A,Suitable for all.,1
+ZA,PG,Parental Guidance.,2
+ZA,7-9PG,Not suitable for children under the age of 7. Children aged 7–9 years old may not be admitted unless accompanied by an adult.,3
+ZA,10-12PG,Not suitable for children under the age of 10. Children aged 10–12 years old may not be admitted unless accompanied by an adult.,4
+ZA,13,Not suitable for children under the age of 13.,5
+ZA,16,Not suitable for persons under the age of 16.,6
+ZA,18,Not suitable for persons under the age of 18.,7
+ZA,X18,No one under 18 admitted; restricted to licensed adult premises.,8
+ZA,XX,Must not be distributed or exhibited in public.,9
+SG,G,Suitable for all ages.,1
+SG,PG,Suitable for all but parents should guide their young.,2
+SG,PG13,Suitable for persons aged 13 and above but parental guidance is advised for children below 13.,3
+SG,NC16,Suitable for persons aged 16 and above.,4
+SG,M18,Suitable for persons aged 18 and above.,5
+SG,R21,Suitable for adults aged 21 and above (restricted to licensed cinemas).,6
+IE,G,Suitable for children of school going age (note: children can be enrolled in school from the age of 4).,1
+IE,PG,Suitable for children over the age of 8. Parental guidance is recommended for children under the age of 12.,2
+IE,12A,Suitable for viewers of 12 and over. Younger children may be admitted to the film at cinemas if accompanied by an adult; on home video younger viewers are not permitted to purchase/rent the video.,3
+IE,15A,Suitable for viewers of 15 and over. Younger viewers may be admitted to the film at cinemas if accompanied by an adult; on home video younger viewers are not permitted to purchase/rent the video.,4
+IE,16,Suitable for viewers of 16 and over. Younger viewers are not admitted.,5
+IE,18,Suitable only for adults. Viewers under 18 are not admitted at cinemas or permitted to purchase/rent the video.,6
+IE,12,Suitable for viewers of 12 and over. Younger children may be admitted to the film at cinemas if accompanied by an adult; on home video younger viewers are not permitted to purchase/rent the video.,3
+IE,15,Suitable for viewers of 15 and over. Younger viewers may be admitted to the film at cinemas if accompanied by an adult; on home video younger viewers are not permitted to purchase/rent the video.,4
+PR,G,,1
+PR,PG,,2
+PR,PG-13,,3
+PR,R,,4
+PR,NC-17,,5
+PR,NR,,0
+JP,G,"General, suitable for all ages.",1
+JP,PG12,Parental guidance requested for young people under 12 years.,2
+JP,R15+,No one under 15 admitted.,3
+JP,R18+,No one under 18 admitted.,4
+VI,G,All ages admitted.,1
+VI,PG,Some material may not be suitable for children.,2
+VI,PG-13,Some material may be inappropriate for children under 13.,3
+VI,R,Under 17 requires accompanying parent or adult guardian.,4
+VI,NC-17,No one 17 and under admitted.,5
+VI,NR,,0
+CH,0,,1
+CH,6,,2
+CH,8,,3
+CH,10,,4
+CH,12,,5
+CH,14,,6
+CH,16,,7
+CH,18,,8
+IL,All,,1
+IL,12,,2
+IL,14,,3
+IL,16,,4
+IL,18,,5
+HK,I,,1
+HK,IIA,,2
+HK,IIB,,3
+HK,III,,4
+MO,A,,1
+MO,B,,2
+MO,C,,3
+MO,D,,4
+LV,U,,1
+LV,7+,,2
+LV,12+,,3
+LV,16+,,4
+LV,18+,,5
+LU,EA,,1
+LU,6,,2
+LU,12,,3
+LU,16,,4
+LU,18,,5
+CZ,UR,Not rated.,0
+CZ,U,No age limit.,1
+CZ,12+,Unsuitable for persons under the age of 12.,2
+CZ,15+,Unsuitable for persons under the age of 15.,3
+CZ,18+,Unsuitable for persons under the age of 18.,4
+AT,AA,alle Altersstufen,1
+AT,6,Freigegeben ab 6 Jahren,2
+AT,8,Freigegeben ab 8 Jahren,3
+AT,10,Freigegeben ab 10 Jahren,4
+AT,12,Freigegeben ab 12 Jahren,5
+AT,14,Freigegeben ab 14 Jahren,6
+AT,16,Freigegeben ab 16 Jahren,7
+CL,TE,General audience.,2
+CL,TE+7,Not suitable for children younger than 7 years.,3
+CL,14,14 years old and over.,4
+CL,18,18 years old and over.,5
+CL,UR,Unrated.,1
+UA,0+,Suitable for all ages.,1
+UA,12+,Suitable for persons aged 12 years and over.,2
+UA,16+,Suitable for persons aged 16 years and over.,3
+UA,18+,Suitable only for adults.,4
+RO,AP,General audience.,1
+RO,12,Parental guidance for children under 12.,2
+RO,15,Not recommended for children under 15.,3
+RO,18,Prohibited to minors under 18.,4
+RO,18+,Prohibited to minors under 18 and projection in public.,5
+RO,IC,Prohibition of communication.,6
+PL,AL,No age restrictions.,1
+PL,7,For minors from 7 years of age.,2
+PL,12,For minors from 12 years of age.,3
+PL,16,Allowed from 16 years of age.,4
+PL,18,Allowed from 18 years of age.,5
